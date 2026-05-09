@@ -727,7 +727,7 @@ section { padding: 100px 0; }
   align-items: start;
 }
 
-.contact-info { display: flex; flex-direction: column; gap: 4px; }
+.contact-info { display: flex; flex-direction: column; gap: 4px; min-height: 100%; }
 
 .contact-link {
   display: flex; gap: 16px; align-items: center;
